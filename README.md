@@ -14,5 +14,5 @@ This project reads text from test.txt file and provide frequency of top most wor
 
 ## How to Run: 
 
-1. [Hosted on Heroku](https://dashboard.heroku.com/apps/stormy-reaches-19619)
+1. [Hosted on Heroku](https://stormy-reaches-19619.herokuapp.com/)
 2. or simply download project from here and run npm install then node app.js
